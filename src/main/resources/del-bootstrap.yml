@@ -1,6 +1,6 @@
 spring:
     application:
-        name : springbootService
+        name : JavaBasicStudy
     cloud:
         config:
             uri : http://localhost:6002/

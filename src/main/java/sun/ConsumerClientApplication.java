@@ -7,9 +7,9 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 
 @SpringBootApplication
-@ServletComponentScan
-@EnableDiscoveryClient
-@RefreshScope   //开启配置更新功能
+//@ServletComponentScan
+//@EnableDiscoveryClient
+//@RefreshScope   //开启配置更新功能
 public class ConsumerClientApplication {
 
     public static void main(String[] args) {
