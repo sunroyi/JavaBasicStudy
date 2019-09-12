@@ -24,7 +24,7 @@ public class ServiceController {
         RestfulResult restfulResult = new RestfulResult();
 
         try {
-            restfulResult.setData("Welcome " + serviceInfo.getName() + "!");
+            restfulResult.setData("Welcome " + serviceInfo.getName() + "!++");
 
         } catch (Exception e) {
             e.printStackTrace();
