@@ -19,8 +19,11 @@ public class ProxyClass implements InvocationHandler {
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
 
         System.out.println("Proxy Start " + method.getName());
-        for(Object obj:args){
-            System.out.println(obj);
+
+        if (args != null) {
+            for (int i = 0; i < args.length; i++) {
+                System.out.println(args[i]);
+            }
         }
 
         Object ret = null;
@@ -28,14 +31,15 @@ public class ProxyClass implements InvocationHandler {
         try {
             System.out.println("Method Start");
 
-            method.invoke(proxy, args);
+            method.invoke(targetObject, args);
 
             System.out.println("Method End");
         }catch(Exception ex){
             System.out.println("Proxy Error");
         }
 
-        System.out.print("Proxy End");
+        System.out.println("Proxy End");
+        System.out.println("-----------------");
 
         return ret;
     }
