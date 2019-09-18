@@ -1,5 +1,8 @@
 package sun.study.Reflect;
 
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@SunMapping("myReflectEntity")
 public class ReflectEntity {
 
     public String pbStr1="String1";
@@ -14,6 +17,7 @@ public class ReflectEntity {
         //pbStr3 = str;
     }*/
 
+    @SunMapping("myReflect1")
     public void pbFun1(){
         System.out.println("ReflectEntiy pbFunc1 Execute.");
     }
@@ -22,6 +26,7 @@ public class ReflectEntity {
         System.out.println("ReflectEntiy pbFunc1 Execute.");
     }
 
+    @SunMapping("myReflect3")
     public void pbFun3(String str){
         System.out.println("ReflectEntiy pbFunc2 Execute " + str);
     }
