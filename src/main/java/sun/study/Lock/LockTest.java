@@ -1,0 +1,38 @@
+package sun.study.Lock;
+
+public class LockTest {
+    public static void main(String[] args){
+        final Outputter1 output = new Outputter1();
+        new Thread(){
+            public void run(){
+                output.output("1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111");
+            }
+        }.start();
+        new Thread(){
+            public void run(){
+                output.output("2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222");
+            }
+        }.start();
+        //System.exit(0);
+    }
+}
+
+class Outputter1{
+    //private Lock lock = new ReentrantLock();
+
+    public  void output(String name){
+        //lock.lock();
+        //synchronized(this) {
+            try {
+                for (int i = 0; i < name.length(); i++) {
+                    System.out.print(name.charAt(i));
+                }
+
+            } finally {
+                //lock.unlock();
+            }
+        //}
+    }
+
+}
+
