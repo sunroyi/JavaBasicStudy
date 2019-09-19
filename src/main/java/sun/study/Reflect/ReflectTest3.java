@@ -3,6 +3,7 @@ package sun.study.Reflect;
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
 
 public class ReflectTest3 {
 
@@ -12,16 +13,18 @@ public class ReflectTest3 {
             Class clz = Class.forName("sun.study.Reflect.ReflectEntity");
 
             Constructor c = clz.getConstructor(new Class[]{String.class});
-
             Object o = c.newInstance("str3");
 
-            Annotation[] as = clz.getAnnotations();
-
-            int i=1;
-            System.out.println(as.length);
-            for(Annotation a:as){
-                System.out.println(i+ a.toString());
-                i++;
+            Method[] ms = clz.getMethods();
+            for(Method m:ms){
+                SunMapping[] sms = m.getAnnotationsByType(SunMapping.class);
+                if(sms.length>0){
+                    for(SunMapping sm : sms){
+                        if (sm.value().equals("myReflect1")){
+                            m.invoke(o);
+                        }
+                    }
+                }
             }
 
             System.exit(0);

@@ -3,6 +3,7 @@ package sun.study.Reflect;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @SunMapping("myReflectEntity")
+@RequestMapping("test")
 public class ReflectEntity {
 
     public String pbStr1="String1";
@@ -18,6 +19,7 @@ public class ReflectEntity {
     }*/
 
     @SunMapping("myReflect1")
+    @RequestMapping("test1")
     public void pbFun1(){
         System.out.println("ReflectEntiy pbFunc1 Execute.");
     }
