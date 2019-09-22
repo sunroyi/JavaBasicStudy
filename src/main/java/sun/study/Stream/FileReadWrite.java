@@ -32,8 +32,5 @@ public class FileReadWrite {
             e.printStackTrace();
         }
 
-
     }
-
-
 }

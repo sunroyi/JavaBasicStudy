@@ -5,8 +5,8 @@ public class ClassLoadTest {
     int intOut=2;
 
     public static void main(String[] args){
-/*        Child child = new Child();
-        child.funProcess();*/
+       Child child = new Child();
+        child.funProcess();
         Child.funProcess();
 
         // 内部类和外部类
@@ -39,7 +39,7 @@ class Parent{
     static{
         b=2;
         System.out.println("1.Parent中的静态代码块执行");
-        System.out.println("  Parent中，a的值为" + a);
+        System.out.println("  Parent中，静态变量初始化，a的值为" + a);
     }
     int intC(){
         System.out.println("3.Parent中的成员变量赋值");
@@ -71,7 +71,7 @@ class Child extends Parent{
     static{
         e=5;
         System.out.println("2.Child中的静态代码块执行");
-        System.out.println("  Child中，d的值为" + d);
+        System.out.println("  Child中，静态变量初始化，d的值为" + d);
     }
 
     int initF(){
