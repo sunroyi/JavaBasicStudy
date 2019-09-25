@@ -27,12 +27,36 @@ public class StringClass {
         return false;
     }
 
+    public boolean equalsun(Object strIn){
+
+        if (qValue == strIn)
+            return true;
+
+        if (strIn instanceof String){
+
+            char[] cin = ((String) strIn).toCharArray();
+            char[] cValue = qValue.toCharArray();
+
+            if (cin.length != cValue.length)
+                return false;
+
+            for(int i=0;i<cin.length;i++){
+                if (cin[i] != cValue[i])
+                    return false;
+            }
+
+            return true;
+        }
+
+        return false;
+    }
+
     public static void main(String[] args){
 
         StringClass q1 = new StringClass();
         q1.qValue = "sun";
 
-        System.out.println(q1.equal("sun"));
+        System.out.println(q1.equalsun("sun"));
         System.out.println(q1.equals("sun"));
     }
 }

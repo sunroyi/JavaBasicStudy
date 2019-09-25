@@ -1,4 +1,4 @@
-package sun.study.DataType;
+package sun.study.JavaMap;
 
 import java.util.HashMap;
 import java.util.Hashtable;

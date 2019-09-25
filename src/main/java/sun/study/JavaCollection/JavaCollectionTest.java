@@ -1,4 +1,4 @@
-package sun.study.DataType;
+package sun.study.JavaCollection;
 
 import java.util.*;
 
