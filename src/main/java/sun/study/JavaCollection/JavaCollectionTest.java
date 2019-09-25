@@ -14,6 +14,7 @@ public class JavaCollectionTest implements Runnable {
         String str2 = "Alex";
         String str3 = "Vetor";
 
+        System.out.println("ArrayList:");
         ArrayList<String> list = new ArrayList<String>();
         list.add(str1);
         list.add(str2);
@@ -23,6 +24,7 @@ public class JavaCollectionTest implements Runnable {
         list.add(str1);
         System.out.println(list);
 
+        System.out.println("HashSet:");
         HashSet<String> set = new HashSet<>();
         set.add(str1);
         set.add(str2);
@@ -32,6 +34,7 @@ public class JavaCollectionTest implements Runnable {
         set.add(str1);
         System.out.println(set);
 
+        System.out.println("Vector:");
         Vector<String> vector = new Vector<>();
         vector.add(str1);
         vector.add(str2);
