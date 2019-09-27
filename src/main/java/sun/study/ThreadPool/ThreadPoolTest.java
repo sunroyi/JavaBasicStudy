@@ -1,21 +1,26 @@
 package sun.study.ThreadPool;
 
-import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.ThreadPoolExecutor;
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.*;
 
 public class ThreadPoolTest {
 
-    public static void main(String[] args){
+    public static void main(String[] args) throws InterruptedException {
 
-        ThreadPoolExecutor tpe = new org.apache.tomcat.util.threads.ThreadPoolExecutor(5, 10, 200, TimeUnit.MILLISECONDS, new ArrayBlockingQueue<Runnable>(5));
+        RejectedExcutionHandlerImpl reject = new RejectedExcutionHandlerImpl();
+        ThreadFactory factory = Executors.defaultThreadFactory();
+        ThreadPoolExecutor pool = new org.apache.tomcat.util.threads.ThreadPoolExecutor(2, 5, 200, TimeUnit.MILLISECONDS, new ArrayBlockingQueue<Runnable>(2), factory, reject);
 
-        for(int i=0;i<15;i++){
-            Task task = new Task(i);
-            tpe.execute(task);
-            System.out.println("线程池中的线程数：" + tpe.getPoolSize() + "，队列中等待执行的任务数：" + tpe.getQueue().size() + "，已执行完的任务数：" + tpe.getCompletedTaskCount());
+        MonitorThread monitor = new MonitorThread(pool, 3);
+        Thread mThread = new Thread(monitor);
+        mThread.start();
+
+        for(int i=0;i<10;i++){
+            pool.execute(new WorkerThread("cmd" + i));
         }
 
-        tpe.shutdown();
+        Thread.sleep(30000);
+        pool.shutdown();
+        Thread.sleep(5000);
+        monitor.shutdown();
     }
 }
