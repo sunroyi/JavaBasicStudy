@@ -1,36 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="7cb1ea04-835a-4731-bd28-4f33b2a7563e" name="Default" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaBasicStudy_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/Blank.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/SearchText.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/AbstractClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/ClassLoadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/FileReadWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/HashTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/Interface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/InterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/JavaCollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/JavaMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/SearchText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/SortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/ThreadDaemonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/ThreadInterruptTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/ThreadJoinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/ThreadSleepWaitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/controller/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" readonly="true" id="7cb1ea04-835a-4731-bd28-4f33b2a7563e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConsumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConsumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimplePublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeConsumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeConsumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribePublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicConsumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicConsumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkConsumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkConsumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sun/ConsumerClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sun/ConsumerClientApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sun/controller/ServiceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sun/controller/ServiceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/DesignMode/AbstractFactory/MyClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/DesignMode/AbstractFactory/MyClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,6 +41,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JavaBasicStudy$ClassLoadTest.ic" NAME="ClassLoadTest Coverage Results" MODIFIED="1569037943328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sun.study.Class.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/JavaBasicStudy$LockTest.ic" NAME="LockTest Coverage Results" MODIFIED="1568373922883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>sun.controller.*</FILTER>
     </SUITE>
@@ -65,36 +67,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JavaCollectionTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/JavaCollectionTest.java">
+      <file leaf-file-name="RoutingPublisher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingPublisher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="80" column="47" lean-forward="true" selection-start-line="80" selection-start-column="47" selection-end-line="80" selection-end-column="47" />
+            <state relative-caret-position="285">
+              <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoutingConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="47" column="49" lean-forward="true" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#295#303#0" expanded="true" />
+                <element signature="e#1132#1133#0" expanded="true" />
+                <element signature="e#1183#1184#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaMapTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/JavaMapTest.java">
+      <file leaf-file-name="RoutingTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="26" selection-end-column="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoutingConsumer2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConsumer2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="10" selection-end-column="29" />
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopicConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#894#895#0" expanded="true" />
+                <element signature="e#944#945#0" expanded="true" />
+                <element signature="e#1000#1001#0" expanded="true" />
+                <element signature="e#1050#1051#0" expanded="true" />
+                <element signature="e#1116#1117#0" expanded="true" />
+                <element signature="e#1167#1168#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hashtable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/Hashtable.java">
+      <file leaf-file-name="TopicPublisher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicPublisher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="130" column="19" lean-forward="true" selection-start-line="130" selection-start-column="19" selection-end-line="130" selection-end-column="19" />
+            <state relative-caret-position="19">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopicTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="27" column="103" lean-forward="true" selection-start-line="27" selection-start-column="103" selection-end-line="27" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopicConsumer2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicConsumer2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopicConsumer1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicConsumer1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -124,7 +185,18 @@
       <find>springbootService</find>
       <find>single</find>
       <find>volatile</find>
+      <find>fanoutExchange</find>
+      <find>Simple</find>
+      <find>WorkConfig.QueueName</find>
+      <find>SimpleQueue</find>
+      <find>SubScribe</find>
+      <find>Subscribe</find>
+      <find>TopicDirectExchange</find>
     </findStrings>
+    <replaceStrings>
+      <replace>Routing</replace>
+      <replace>Topic</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -132,54 +204,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/serviceController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/entity/VideoInfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/entity/serviceInfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/common/entity/utils/StringUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/common/entity/RestfulResult.java" />
-        <option value="$PROJECT_DIR$/src/main/java/common/utils/CommUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/common/utils/JsonMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQ/MQTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode/AbstractFactory/MyClassTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQ/RabbitConnection.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/ServiceController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/ConsumerClientApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/entity/ServiceInfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/Question1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/StringClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/ThreadCounter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/SynchronizedDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/LockTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/ReadWriteLockTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/SingletonTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/SingletonClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/LockClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/LockClassTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/HashTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/AbstractClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/Interface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/Interface1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/Interface2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/InterfaceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/AbstractClassTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/ThreadTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/ThreadInterruptTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/ThreadJoinTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/ThreadSleepWaitTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/ThreadDaemonTest.java" />
-        <option value="$PROJECT_DIR$/resource/SearchText.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/SearchText.java" />
-        <option value="$PROJECT_DIR$/resource/NewText.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/FileReadWrite.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/SortTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/ClassLoadTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/MapClass.java" />
-        <option value="$PROJECT_DIR$/resource/Blank.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/JavaMapTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/controller/JavaCollectionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQ/RabbitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQ/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQ/Consumer1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQ/Consumer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQ/Publisher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQ/Task.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQ/RabbitConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/RabbitConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/RabbitMQWork/Consumer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/RabbitConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/Consumer1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/Consumer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/Consumer1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/Consumer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/Publisher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/Publisher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/Task.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/Task.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/WorkPublisher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/WorkConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/WorkConsumer1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribePublisher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeConsumer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkPublisher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/RabbitMQWork/WorkConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/WorkConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimplePublisher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleConsumer1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RabbitMQSubscribe/SubscribeConsumer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/SubscribeConsumer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/RabbitMQRouting/SubscribeConsumer1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/SubscribeConsumer1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingPublisher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicPublisher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConsumer1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicConfig.java" />
       </list>
     </option>
   </component>
@@ -221,6 +296,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -228,11 +305,6 @@
             <path>
               <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -284,7 +356,27 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="RabbitMQRouting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="RabbitMQTopic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -303,8 +395,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,25 +406,28 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WindowsApplicationTest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3199618" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sun.study.RabbitMQ" />
+      <recent name="sun.study.Copy" />
       <recent name="sun.controller" />
       <recent name="common.entity" />
       <recent name="sun.entity" />
-      <recent name="sun" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\JavaBasicStudy\src\main\java\sun\study\RabbitMQTopic" />
+      <recent name="D:\workspace\JavaBasicStudy\src\main\java\sun\study\RabbitMQRouting" />
+      <recent name="D:\workspace\JavaBasicStudy\src\main\java\sun\study\RabbitMQSimple" />
+      <recent name="D:\workspace\JavaBasicStudy\src\main\java\sun\study" />
       <recent name="D:\workspace20160509\springbootProject\src\main\java\common" />
-      <recent name="D:\workspace20160509\springbootProject\src\main\java\common\entity" />
-      <recent name="D:\workspace20160509\springbootProject\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -349,58 +442,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaCollectionTest">
-    <configuration name="ClassLoadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sun.controller.ClassLoadTest" />
+  <component name="RunManager" selected="Spring Boot.ConsumerClientApplication">
+    <configuration name="MyTreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sun.study.JavaMap.MyTreeMap" />
       <module name="JavaBasicStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sun.controller.*" />
+          <option name="PATTERN" value="sun.study.JavaMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FileReadWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sun.controller.FileReadWrite" />
+    <configuration name="ProxyClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sun.study.Proxy.ProxyClassTest" />
       <module name="JavaBasicStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sun.controller.*" />
+          <option name="PATTERN" value="sun.study.Proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="JavaCollectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sun.controller.JavaCollectionTest" />
+    <configuration name="RabbitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sun.study.RabbitMQ.RabbitTest" />
       <module name="JavaBasicStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sun.controller.*" />
+          <option name="PATTERN" value="sun.study.RabbitMQSubscribe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="JavaMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sun.controller.JavaMapTest" />
+    <configuration name="ThreadInfoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sun.study.Thread.ThreadInfoTest" />
       <module name="JavaBasicStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sun.controller.*" />
+          <option name="PATTERN" value="sun.study.ThreadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sun.controller.SortTest" />
+    <configuration name="ThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sun.study.ThreadPool.ThreadPoolTest" />
       <module name="JavaBasicStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sun.controller.*" />
+          <option name="PATTERN" value="sun.study.ThreadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -452,19 +545,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.ConsumerClientApplication" />
-      <item itemvalue="Application.FileReadWrite" />
-      <item itemvalue="Application.SortTest" />
-      <item itemvalue="Application.ClassLoadTest" />
-      <item itemvalue="Application.JavaCollectionTest" />
-      <item itemvalue="Application.JavaMapTest" />
+      <item itemvalue="Application.MyTreeMap" />
+      <item itemvalue="Application.ThreadInfoTest" />
+      <item itemvalue="Application.ProxyClassTest" />
+      <item itemvalue="Application.ThreadPoolTest" />
+      <item itemvalue="Application.RabbitTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaCollectionTest" />
-        <item itemvalue="Application.JavaMapTest" />
-        <item itemvalue="Application.ClassLoadTest" />
-        <item itemvalue="Application.SortTest" />
-        <item itemvalue="Application.FileReadWrite" />
+        <item itemvalue="Application.RabbitTest" />
+        <item itemvalue="Application.ThreadPoolTest" />
+        <item itemvalue="Application.ProxyClassTest" />
+        <item itemvalue="Application.ThreadInfoTest" />
+        <item itemvalue="Application.MyTreeMap" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +576,15 @@
       <workItem from="1568337051682" duration="184000" />
       <workItem from="1568337271635" duration="25897000" />
       <workItem from="1568454686935" duration="8284000" />
-      <workItem from="1568507414605" duration="20662000" />
+      <workItem from="1568507414605" duration="21195000" />
+      <workItem from="1568633997554" duration="3362000" />
+      <workItem from="1568724193335" duration="742000" />
+      <workItem from="1568958990887" duration="9068000" />
+      <workItem from="1569030282140" duration="22167000" />
+      <workItem from="1569410569408" duration="11419000" />
+      <workItem from="1569488056554" duration="7674000" />
+      <workItem from="1569582513850" duration="2796000" />
+      <workItem from="1569637597737" duration="27208000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1568295693272</created>
@@ -499,14 +600,64 @@
       <option name="project" value="LOCAL" />
       <updated>1568381168202</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1">
+      <created>1568552853885</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568552853885</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1568638350055</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568638350055</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1">
+      <created>1568724326237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568724326237</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1">
+      <created>1569030467961</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569030467961</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1">
+      <created>1569138554390</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569138554390</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1">
+      <created>1569425258625</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569425258625</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1">
+      <created>1569504094555</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1569504094555</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58205000" />
+    <option name="totallyTimeSpent" value="143174000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
@@ -514,34 +665,34 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.28277355" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.46912244" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32936078" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22535211" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30010834" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2761194" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30170575" />
       <window_info anchor="right" id="Bean Validation" order="3" weight="0.32995737" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="SVN Repositories" order="7" weight="0.3293718" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5017361" side_tool="true" weight="0.2153518" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5017361" side_tool="true" weight="0.2153518" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +707,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="41" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -564,379 +715,387 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/utils/JsonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="15" column="41" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/utils/JsonMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootProject.iml" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.8.RELEASE/spring-boot-1.5.8.RELEASE.jar!/org/springframework/boot/env/PropertySourcesLoader.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.8.RELEASE/spring-boot-1.5.8.RELEASE.jar!/org/springframework/boot/web/servlet/ServletComponentScan.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.3.0.RELEASE/spring-cloud-commons-1.3.0.RELEASE.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/del-bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="24" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/entity/ServiceInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/ConsumerClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/ThreadCounter.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/ServiceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/StringClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/SynchronizedDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="184" column="21" selection-start-line="184" selection-start-column="21" selection-end-line="184" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/ReadWriteLockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/LockClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/LockClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/LockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/HashTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/Interface1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/Interface2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/AbstractClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/AbstractClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/InterfaceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/ThreadInterruptTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Stream/FileReadWrite.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" column="79" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/ThreadDaemonTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Servlet/Servlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+        <state relative-caret-position="437">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/SingletonClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Thread/ThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Thread/ThreadInfoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="543" column="11" selection-start-line="543" selection-start-column="11" selection-end-line="543" selection-end-column="11" />
+        <state relative-caret-position="418">
+          <caret line="31" column="54" lean-forward="true" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/SearchText.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Proxy/ProxyInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Proxy/ProxyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Proxy/ProxyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="63" lean-forward="true" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Proxy/ProxyClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/Task.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/ThreadPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode/AbstractFactory/MyFactory2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/SearchText.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode/AbstractFactory/MyClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="95" lean-forward="true" selection-start-line="9" selection-start-column="95" selection-end-line="9" selection-end-column="95" />
+        <state relative-caret-position="152">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/FileReadWrite.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="342">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/ClassLoadTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQ/RabbitConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#1540#1541#0" expanded="true" />
-            <element signature="e#1588#1589#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="64" column="30" lean-forward="true" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/MapClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="190">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#871#872#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#946#947#0" expanded="true" />
-            <element signature="e#996#997#0" expanded="true" />
-            <element signature="e#1023#1024#0" expanded="true" />
-            <element signature="e#1076#1077#0" expanded="true" />
-            <element signature="e#1104#1105#0" expanded="true" />
-            <element signature="e#1147#1148#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQ/RabbitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="2514" column="41" selection-start-line="2514" selection-start-column="41" selection-end-line="2514" selection-end-column="41" />
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/ThreadJoinTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/del-bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="119" column="81" lean-forward="true" selection-start-line="119" selection-start-column="81" selection-end-line="119" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/ThreadTest.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-151">
-          <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        <state relative-caret-position="361">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/ThreadSleepWaitTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ABA/ABA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="64" lean-forward="true" selection-start-line="48" selection-start-column="64" selection-end-line="48" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/NewText.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/SingletonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/Blank.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="993" column="3" lean-forward="true" selection-start-line="993" selection-start-column="3" selection-end-line="993" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/Dictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/Hashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="130" column="19" lean-forward="true" selection-start-line="130" selection-start-column="19" selection-end-line="130" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/JavaMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="589">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/ServiceController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="134" column="9" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="9" />
+        <state relative-caret-position="399">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="32" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/utils/CommUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/utils/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeConsumer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleConsumer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkConsumer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkConsumer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribePublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding>
-            <element signature="e#21076#21077#0" expanded="true" />
-            <element signature="e#21103#21104#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/JavaCollectionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkPublisher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="80" column="47" lean-forward="true" selection-start-line="80" selection-start-column="47" selection-end-line="80" selection-end-column="47" />
+        <state relative-caret-position="171">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/ConsumerClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeConsumer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#295#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimplePublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1212#1213#0" expanded="true" />
+            <element signature="e#1262#1263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="e#674#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConsumer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="26" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConsumer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="47" column="49" lean-forward="true" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
+          <folding>
+            <element signature="e#1132#1133#0" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.4.RELEASE/spring-amqp-1.7.4.RELEASE.jar!/org/springframework/amqp/core/AmqpTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="18" column="71" lean-forward="true" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicConsumer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicConsumer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="27" column="103" lean-forward="true" selection-start-line="27" selection-start-column="103" selection-end-line="27" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <folding>
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
+            <element signature="e#1000#1001#0" expanded="true" />
+            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -996,12 +1155,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JavaBasicStudy</last-edited>
+          <last-edited>Spring|JavaBasicStudy</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.3199618" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

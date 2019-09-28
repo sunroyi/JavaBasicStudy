@@ -1,0 +1,13 @@
+server:
+  port: 6001
+
+spring:
+  application:
+    name: JavaBasicStudy
+  rabbitmq:
+    address: localhost:15672
+    username: guest
+    password: guest
+
+
+#eureka.client.service-url.defaultZone=http://localhost:5000/eureka/
