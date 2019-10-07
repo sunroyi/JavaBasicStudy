@@ -2,7 +2,7 @@ package sun.study.Serialize;
 
 import java.io.*;
 
-public class SerializeUtil {
+public class SerializeTest1 {
     // 序列化
     public static byte[] serialize(Object object){
         ObjectOutputStream oos = null;

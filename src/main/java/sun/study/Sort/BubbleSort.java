@@ -2,9 +2,11 @@ package sun.study.Sort;
 
 import java.util.Arrays;
 
-public class SortTest {
+public class BubbleSort {
 
     public static void main(String[] args){
+
+        System.out.println("151345".hashCode());
 
         int[] aryNumber = {1,6,4,8,9,130,6,848,132,0,6,6,6,6};
 
