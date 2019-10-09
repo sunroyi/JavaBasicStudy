@@ -8,7 +8,7 @@ public class ThreadPoolTest {
 
         RejectedExcutionHandlerImpl reject = new RejectedExcutionHandlerImpl();
         ThreadFactory factory = Executors.defaultThreadFactory();
-        ThreadPoolExecutor pool = new org.apache.tomcat.util.threads.ThreadPoolExecutor(2, 5, 200, TimeUnit.MILLISECONDS, new ArrayBlockingQueue<Runnable>(2), factory, reject);
+        ThreadPoolExecutor pool = new ThreadPoolExecutor(2, 5, 200, TimeUnit.MILLISECONDS, new ArrayBlockingQueue<Runnable>(2), factory, reject);
 
         MonitorThread monitor = new MonitorThread(pool, 3);
         Thread mThread = new Thread(monitor);
