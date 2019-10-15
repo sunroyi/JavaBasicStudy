@@ -2,79 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="7cb1ea04-835a-4731-bd28-4f33b2a7563e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/resource/SortSource.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/AsyncTaskExecutor/AsyncTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/AsyncTaskExecutor/AsyncTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/AsyncTaskExecutor/SyncTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/AsyncTaskExecutor/SyncTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/AsyncTaskExecutor/TaskExecutorPoolConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Calculate/SortBigFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Future/FutureCook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/JavaCollection/List/SafeConcurrentLinkedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/JavaCollection/List/UnSafeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/LRU/LRUCache1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/LRU/LRUCache2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/LRU/LRUCache3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/LRU/LRUTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Lock/SynchronizedTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Lock/SynchronizedTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Lock/SynchronizedTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Proxy/MyTest/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Proxy/MyTest/UserProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Proxy/MyTest/UserProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Proxy/MyTest/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Proxy/MyTest/UserServiceInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Proxy/Mybatis/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Proxy/Mybatis/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Proxy/Mybatis/StudentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Redis/RedisLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Redis/RedisNoLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Redis/RedisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Redis/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Redis/SingletonLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/ScheduleThreadPool/ScheduleThreadPoolTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Serialize/SerializeTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Sort/BucketSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Sort/CountingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Sort/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Sort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Sort/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Sort/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Stream/BufferedInputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Stream/BufferedOutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Stream/BufferedReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Stream/BufferedWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Stream/FileInputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Stream/FileOutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Stream/FileReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Stream/FileWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Stream/InputStreamReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Stream/OutputStreamWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Thread/CountDownLatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Thread/CyclicBarrierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Thread/ThreadLocalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Thread/ThreadRunnableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Thread/VolatileAtomicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/FixedThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/SingleThreadExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/UniqueID/SnowFlakeIdGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/UniqueID/SnowFlakeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/BeanFactory1/MyBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/BeanFactory1/MyBean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/BeanFactory1/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Interceptor/CustomPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Mybatis/web/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/User.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sun/ConsumerClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/ConsumerClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sun/controller/ServiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/controller/ServiceController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/JavaCollection/Set/MyTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/JavaCollection/Set/MyTreeSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/Serialize/SerializeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/Serialize/SerializeTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/Sort/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/Sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/Proxy/Mybatis/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/Proxy/Mybatis/MyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/common/utils/JsonMapper$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/utils/JsonMapper$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/sun/ConsumerClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sun/ConsumerClientApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sun/controller/ServiceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sun/controller/ServiceController.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,6 +30,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JavaBasicStudy$ThreadJoinTest.ic" NAME="ThreadJoinTest Coverage Results" MODIFIED="1568460728136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sun.controller.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/JavaBasicStudy$ClassLoadTest.ic" NAME="ClassLoadTest Coverage Results" MODIFIED="1569037943328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>sun.study.Class.*</FILTER>
     </SUITE>
@@ -93,9 +40,6 @@
       <FILTER>sun.study.Thread.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/JavaBasicStudy$LockTest.ic" NAME="LockTest Coverage Results" MODIFIED="1568373922883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>sun.controller.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/JavaBasicStudy$ThreadJoinTest.ic" NAME="ThreadJoinTest Coverage Results" MODIFIED="1568460728136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>sun.controller.*</FILTER>
     </SUITE>
   </component>
@@ -115,89 +59,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FutureCook.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Future/FutureCook.java">
+      <file leaf-file-name="CustomPlugin.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Interceptor/CustomPlugin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="23" column="30" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FixedThreadPool.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/FixedThreadPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleThreadExecutor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/SingleThreadExecutor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadPoolTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/ThreadPoolTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScheduleThreadPoolTest1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ScheduleThreadPool/ScheduleThreadPoolTest1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VolatileAtomicTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Thread/VolatileAtomicTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+            <state relative-caret-position="243">
+              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
               <folding>
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-                <element signature="e#661#662#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1452#1453#0" expanded="true" />
+                <element signature="e#1495#1496#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WorkerThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/WorkerThread.java">
+      <file leaf-file-name="mybatis-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+            <state relative-caret-position="248">
+              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountDownLatchTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Thread/CountDownLatchTest.java">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Mybatis/web/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="-377">
+              <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CyclicBarrierTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Thread/CyclicBarrierTest.java">
+      <file leaf-file-name="User.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/User.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="38" column="43" lean-forward="true" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+            <state relative-caret-position="133">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -208,15 +109,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>isblank</find>
-      <find>spring-cloud-starter-netflix-eureka-client</find>
-      <find>&lt;spring-cloud.version&gt;Edgware.RELEASE&lt;/spring-cloud.version&gt;</find>
       <find>`</find>
       <find>eureka</find>
       <find>config</find>
@@ -240,9 +139,13 @@
       <find>asyncTaskExecutor</find>
       <find>linkedlist</find>
       <find>mysql</find>
-      <find>mybatis</find>
       <find>serialize</find>
       <find>0</find>
+      <find>count</find>
+      <find>char</find>
+      <find>jdbc</find>
+      <find>mysql-connector-java</find>
+      <find>mybatis</find>
     </findStrings>
     <replaceStrings>
       <replace>Routing</replace>
@@ -255,57 +158,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/UniqueID/UUIDtoInt64.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/UniqueID/SnowFlakeIdGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/UniqueID/SnowFlakeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Atomikos/DBConfig1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Atomikos/DBConfig2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Atomikos/TestMyBatisConfig1.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Proxy/MyTest/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Proxy/MyTest/UserInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Proxy/MyTest/UserServiceInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Proxy/MyTest/UserProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Proxy/MyTest/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Proxy/MyTest/UserProxyTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Proxy/Mybatis/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Proxy/Mybatis/StudentMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Proxy/Mybatis/MaperProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Iterator/MyIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Iterator/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Chain/IHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Chain/AbstractHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Chain/MyHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Chain/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Command/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Command/Soilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Command/Invoke.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Command/Commander.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Command/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Memento/Memory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Memento/Origin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Memento/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/State/State.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/State/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/State/Subject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Interpreter/Plus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Interpreter/Multi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Interpreter/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Mediator/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Mediator/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Mediator/Colleague.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Visitor/Visitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Visitor/Visitor1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Visitor/AVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Visitor/Visitor2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Visitor/Master.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Visitor/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/BeanFactory1/MyBean.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/BeanFactory1/MyBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/BeanFactory1/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Entity/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/sun/study/Proxy/Mybatis/MyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Sort/SortTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Sort/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Sort/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Sort/ShellSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Sort/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Sort/TreeSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Sort/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Sort/HeapSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Sort/CountingSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Sort/BucketSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Sort/RadixSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/resource/SortSource.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Calculate/SortFileToFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Calculate/SortBigFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/JavaCollection/Set/MyTreeSet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/FixedThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Serialize/SerializeUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Serialize/SerializeTest2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Stream/BufferedInputStreamTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Stream/FileInputStreamTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Stream/FileOutputStreamTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Stream/BufferedOutputStreamTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Stream/InputStreamReaderTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Stream/FileReaderTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Stream/BufferedReaderTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Stream/OutputStreamWriter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Stream/FileWriterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Stream/OutputStreamWriterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Stream/BufferedWriterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Thread/ThreadRunnableTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Thread/CyclicBarrierTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sun/study/Thread/VolatileAtomicTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/ConsumerClientApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/Mybatis/web/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/User.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Interceptor/CustomerPlugin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConsumer1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Interceptor/CustomPlugin.java" />
       </list>
     </option>
   </component>
@@ -329,6 +232,11 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="JavaBasicStudy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JavaBasicStudy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -347,8 +255,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -402,7 +308,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -412,97 +318,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sun" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="Future" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="RabbitMQSubscribe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="RabbitMQTopic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="RabbitMQWork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="ScheduleThreadPool" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="Serialize" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="Stream" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="Thread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="ThreadPool" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="UniqueID" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -515,13 +330,17 @@
               <item name="JavaBasicStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasicStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -531,10 +350,10 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="future&#9;PSI&#9;JAVA://sun.study.Future.FutureCook&#10;count&#9;PSI&#9;JAVA://sun.study.Thread.CountDownLatchTest&#10;countdownl&#9;FILE&#9;file://D:/workspace/JavaBasicStudy/src/main/java/sun/study/Thread/CountDownLatchTest.java&#10;spring-test&#9;FILE&#9;jar://C:/Users/SunRoyi/.m2/repository/org/springframework/spring-test/4.2.5.RELEASE/spring-test-4.2.5.RELEASE.jar!/" />
+    <property name="SearchEverywhereHistoryKey" value="SleepTest&#9;PSI&#9;JAVA://sun.study.Thread.SleepTest&#10;future&#9;PSI&#9;JAVA://sun.study.Future.FutureCook&#10;count&#9;PSI&#9;JAVA://sun.study.Thread.CountDownLatchTest&#10;countdownl&#9;FILE&#9;file://D:/workspace/JavaBasicStudy/src/main/java/sun/study/Thread/CountDownLatchTest.java&#10;spring-test&#9;FILE&#9;jar://C:/Users/SunRoyi/.m2/repository/org/springframework/spring-test/4.2.5.RELEASE/spring-test-4.2.5.RELEASE.jar!/" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../smph_beats" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -543,12 +362,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sun.study.Mybatis.Service" />
+      <recent name="sun.study.DesignMode2" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sun.study.DesignMode2.Visitor" />
+      <recent name="sun.study.DesignMode2.Observer" />
+      <recent name="sun.study.DesignMode2.Bridge" />
       <recent name="sun.study.Sort" />
       <recent name="sun.study.Proxy.MyTest" />
-      <recent name="sun.study.Atomikos" />
-      <recent name="sun.study.Lock" />
-      <recent name="sun.study.JavaCollection.List" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workspace\JavaBasicStudy\src\main\java\sun\study\RabbitMQTopic" />
@@ -570,58 +393,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VolatileAtomicTest">
-    <configuration name="CyclicBarrierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sun.study.Thread.CyclicBarrierTest" />
+  <component name="RunManager" selected="Spring Boot.ConsumerClientApplication">
+    <configuration name="MyTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sun.study.DesignMode2.Interpreter.MyTest" />
       <module name="JavaBasicStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sun.study.Thread.*" />
+          <option name="PATTERN" value="sun.study.DesignMode2.Interpreter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FixedThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sun.study.ThreadPool.FixedThreadPool" />
+    <configuration name="MyTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sun.study.DesignMode2.Mediator.MyTest" />
       <module name="JavaBasicStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sun.study.ThreadPool.*" />
+          <option name="PATTERN" value="sun.study.DesignMode2.Mediator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SingleThreadExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sun.study.ThreadPool.SingleThreadExecutor" />
+    <configuration name="MyTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sun.study.DesignMode2.Visitor.MyTest" />
       <module name="JavaBasicStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sun.study.ThreadPool.*" />
+          <option name="PATTERN" value="sun.study.DesignMode2.Visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ThreadRunnableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sun.study.Thread.ThreadRunnableTest" />
+    <configuration name="MyTest (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sun.study.DesignMode2.State.MyTest" />
       <module name="JavaBasicStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sun.study.Thread.*" />
+          <option name="PATTERN" value="sun.study.DesignMode2.State.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="VolatileAtomicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sun.study.Thread.VolatileAtomicTest" />
+    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sun.study.BeanFactory1.MyTest" />
       <module name="JavaBasicStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sun.study.Thread.*" />
+          <option name="PATTERN" value="sun.study.BeanFactory1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -673,24 +496,24 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.ConsumerClientApplication" />
-      <item itemvalue="Application.ThreadRunnableTest" />
-      <item itemvalue="Application.CyclicBarrierTest" />
-      <item itemvalue="Application.FixedThreadPool" />
-      <item itemvalue="Application.SingleThreadExecutor" />
-      <item itemvalue="Application.VolatileAtomicTest" />
+      <item itemvalue="Application.MyTest (5)" />
+      <item itemvalue="Application.MyTest (2)" />
+      <item itemvalue="Application.MyTest (3)" />
+      <item itemvalue="Application.MyTest (4)" />
+      <item itemvalue="Application.MyTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VolatileAtomicTest" />
-        <item itemvalue="Application.SingleThreadExecutor" />
-        <item itemvalue="Application.FixedThreadPool" />
-        <item itemvalue="Application.CyclicBarrierTest" />
-        <item itemvalue="Application.ThreadRunnableTest" />
+        <item itemvalue="Application.MyTest" />
+        <item itemvalue="Application.MyTest (4)" />
+        <item itemvalue="Application.MyTest (3)" />
+        <item itemvalue="Application.MyTest (2)" />
+        <item itemvalue="Application.MyTest (5)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
-    <configuration>C:\Users\SunRoyi\AppData\Roaming\Subversion</configuration>
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
     <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
@@ -833,44 +656,52 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="252960000" />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
-      <window_info anchor="right" id="Maven Projects" order="10" sideWeight="0.4982639" weight="0.2153518" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.40520042" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3282313" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49946696" weight="0.32827735" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50075644" side_tool="true" weight="0.39795917" />
+      <window_info anchor="right" id="Maven Projects" order="10" sideWeight="0.4982639" weight="0.25642964" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3802817" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49946696" weight="0.3282313" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32462686" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32980332" />
       <window_info anchor="right" id="Bean Validation" order="8" weight="0.32995737" />
       <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" visible="true" weight="0.32482994" />
       <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="SVN Repositories" order="13" weight="0.3293718" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5017361" side_tool="true" weight="0.2153518" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5017361" side_tool="true" weight="0.2153518" />
+      <window_info anchor="right" id="Palette" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -893,7 +724,7 @@
           <option name="timeStamp" value="51" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="87" />
+      <option name="time" value="104" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -901,31 +732,217 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/MonitorThread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/State/MyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="266">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode/AbstractFactory/MyClass1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/State/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/State/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Interpreter/Plus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Interpreter/Multi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Interpreter/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Mediator/Colleague.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Mediator/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Mediator/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Visitor/Visitor1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode/AbstractFactory/MyClassTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Visitor/AVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/BeanFactory/MyBeanFactoryPostProcessorImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Visitor/Visitor2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Visitor/Master.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/DesignMode2/Visitor/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ABA/ABA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-532">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/AsyncTaskExecutor/AsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/AsyncTaskExecutor/AsyncTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/BeanFactory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="106" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/BeanFactory1/MyBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/BeanFactory1/MyBean.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/BeanFactory1/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -934,326 +951,265 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/BeanFactory/MyBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="209">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/BeanFactory/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/BeanFactory/MyBeanFactoryPostProcessorImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="190">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/BeanFactory/MyBeanPostProcessorImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="152">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/SortTarget-Output.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="317" selection-start-column="317" selection-end-column="317" />
+          <caret column="32" selection-start-column="8" selection-end-column="32" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Serialize/SerializeClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Proxy/Mybatis/MyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Serialize/SerializeTest1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state>
+          <caret column="29" selection-start-column="8" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeConsumer1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/ConsumerClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-558">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/del-bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConsumer2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <folding>
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1091#1092#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+            <element signature="e#1206#1207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribeTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQTopic/TopicTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQWork/WorkTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Serialize/SerializeTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSubscribe/SubscribePublisher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/SearchText.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/SerializeText.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/SortSource.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/NewText.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Stream/FileOutputStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="83">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1199#1200#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Stream/FileInputStreamTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQSimple/SimpleConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="107" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="107" />
+        <state relative-caret-position="192">
+          <caret line="18" selection-start-line="18" selection-end-line="21" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/Blank.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1140" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/FileOutputStreamTest.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/BufferedOutputStreamTest.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Stream/InputStreamReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="74" lean-forward="true" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="145" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Stream/FileReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Stream/BufferedReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/OutputStreamWriterTest.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/FileWriterTest.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Stream/FileWriterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Stream/OutputStreamWriterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Stream/BufferedWriterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/BufferedWriterTest.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Stream/BufferedInputStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Stream/BufferedOutputStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="9" column="122" selection-start-line="9" selection-start-column="98" selection-end-line="9" selection-end-column="122" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Stream/FileReadWrite.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Stream/SearchText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Thread/ThreadRunnableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1146#1147#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Thread/CountDownLatchTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/RabbitMQRouting/RoutingConsumer1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="133">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Thread/CyclicBarrierTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="38" column="43" lean-forward="true" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        <state relative-caret-position="248">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Future/FutureCook.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/User.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="30" />
+        <state relative-caret-position="133">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/WorkerThread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Mybatis/web/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/FixedThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/SingleThreadExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/ThreadPoolTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/ScheduleThreadPool/ScheduleThreadPoolTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-245">
-          <caret line="1947" column="68" lean-forward="true" selection-start-line="1947" selection-start-column="68" selection-end-line="1947" selection-end-column="68" />
+        <state relative-caret-position="-377">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
           <folding>
-            <element signature="e#75713#75714#0" expanded="true" />
-            <element signature="e#75785#75786#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Thread/VolatileAtomicTest.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/plugin/Plugin.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        <state relative-caret-position="108">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/study/Mybatis/Interceptor/CustomPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
           <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1452#1453#0" expanded="true" />
+            <element signature="e#1495#1496#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1277,7 +1233,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web (JavaBasicStudy)|Web</last-edited>
+          <last-edited>Detection</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1313,11 +1269,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|JavaBasicStudy</last-edited>
+          <last-edited>JavaBasicStudy</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.3199618" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1337,7 +1294,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.jayway.jsonpath:json-path:2.2.0</last-edited>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
