@@ -4,18 +4,30 @@ server:
 spring:
   application:
     name: JavaBasicStudy
-  rabbitmq:
-    address: localhost:15672
-    username: guest
-    password: guest
+
+#  rabbitmq:
+#    address: localhost:15672
+#    username: guest
+#    password: guest
 
   redis:
     database: 0
     host: localhost
     port: 6378
 
-
 #eureka.client.service-url.defaultZone=http://localhost:5000/eureka/
+
+#Inesa Mysql
+  datasource:
+      url: jdbc:mysql://localhost:3306/suntest?useUnicode=true&characterEncoding=utf-8
+      username: root
+      password:
+
+mybatis:
+    mapper-locations: classpath:mapper/*.xml
+    config-location: classpath:mybatis-config.xml
+    type-aliases-package: sun.*.Entity
+
 
 #Mysql 1
 #mysql:

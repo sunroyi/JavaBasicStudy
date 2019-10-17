@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="sun.study.Mybatis.Dao.UserDao">
+    <select id="findList"  resultType="sun.study.Mybatis.Entity.User">
+      SELECT
+        id,
+        name,
+        age
+      FROM user
+      WHERE name like concat('%',#{name},'%')
+    </select>
+
+    <select id="get"  resultType="sun.study.Mybatis.Entity.User">
+      SELECT
+        id,
+        name,
+        age
+      FROM user
+      WHERE id = #{id}
+    </select>
+
+    <insert id="insert" parameterType="sun.study.Mybatis.Entity.User">
+      INSERT INTO user(id, name, age)
+      VALUES(#{id}, #{name}, #{age})
+    </insert>
+
+    <update id="update"  parameterType="sun.study.Mybatis.Entity.User">
+      UPDATE user
+      SET name = #{name},
+        age = #{age}
+      WHERE id = #{id}
+    </update>
+
+    <delete id="delete" parameterType="sun.study.Mybatis.Entity.User">
+      DELETE
+      FROM user
+      WHERE id = #{id}
+    </delete>
+</mapper>
+

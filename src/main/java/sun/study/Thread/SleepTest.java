@@ -34,7 +34,7 @@ public class SleepTest{
 
     public static void main(String[] args) throws InterruptedException {
         // sleep测试结果：
-        // sleep不会释放锁，也不会释放CPU资源
+        // sleep不会释放锁，但是会释放CPU资源，线程状态变成Runnable
         Thread sleepThread1 = new Thread(new SleepThread(lock));
         Thread sleepThread2 = new Thread(new SleepThread(lock));
 

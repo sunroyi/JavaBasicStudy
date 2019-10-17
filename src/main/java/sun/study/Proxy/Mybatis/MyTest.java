@@ -1,7 +1,5 @@
 package sun.study.Proxy.Mybatis;
 
-import org.apache.ibatis.session.SqlSession;
-
 import java.util.List;
 
 public class MyTest {
