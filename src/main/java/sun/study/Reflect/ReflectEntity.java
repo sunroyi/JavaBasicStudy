@@ -30,6 +30,10 @@ public class ReflectEntity {
 
     @SunMapping("myReflect3")
     public void pbFun3(String str){
-        System.out.println("ReflectEntiy pbFunc2 Execute " + str);
+        System.out.println("ReflectEntiy pbFunc3 Execute " + str);
+    }
+
+    public void pbFun4(){
+        System.out.println("ReflectEntiy pbFunc4 Execute " + pbStr3);
     }
 }
