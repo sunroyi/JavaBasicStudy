@@ -1,0 +1,11 @@
+1.消息队列RabbitMQ
+2.幂等性用调用自带的接口去实现？
+3.分布式事务
+4.JUnit
+5.SpringCloud系列(功能分割，网关等）
+6.线程池
+7.Netty
+https://www.jianshu.com/p/b1e7e41a7d28
+https://www.cnblogs.com/little-fly/p/8683197.html
+https://segmentfault.com/a/1190000017128263?utm_source=tag-newest
+8.UML可以了解一下
