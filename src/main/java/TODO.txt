@@ -1,18 +1,25 @@
 1.幂等性
 https://blog.csdn.net/qq_16605855/article/details/80192762
 
+2.JUnit
+参照src/test/java/junit目录下的代码
+系统设置中，要把java目录设为test目录
+在pom.xml中，可以通过maven-surefire-plugin进行配置
 
 ---------------------------------------------------------------------------
 
-4.JUnit
-8.UML可以了解一下
+12/21
+2.UML可以了解一下
+https://www.cnblogs.com/jiangds/p/6596595.html
 
-6.线程池
-7.Netty
+12/22
+1.线程池
+2.Netty
 https://www.jianshu.com/p/b1e7e41a7d28
 https://www.cnblogs.com/little-fly/p/8683197.html
 https://segmentfault.com/a/1190000017128263?utm_source=tag-newest
 
+12/23-24
 1.消息队列RabbitMQ
-3.分布式事务
-5.SpringCloud系列(功能分割,网关,Hytrix等）
+2.分布式事务
+3.SpringCloud系列(功能分割,网关,Hytrix等）
