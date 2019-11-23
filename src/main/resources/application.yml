@@ -9,6 +9,21 @@ spring:
 #    address: localhost:15672
 #    username: guest
 #    password: guest
+#    ###开启消息确认机制 confirms  channel.basicAck等channel方法需要用到
+#    #publisher-confirms: true
+#    #publisher-returns: true
+#    listener:
+#      simple:
+#        retry:
+#          enabled: true   #是否开启消费者重试（为false时关闭消费者重试，这时消费端代码异常会一直重复收到消息）
+#          max-attempts: 3  #最大重试次数
+#          initial-interval: 1000  #重试间隔时间
+#          #max-interval: 1200000 #重试最大时间间隔
+#          #multiplier: 2 #应用于前一重试间隔的乘法器
+#        ###channel方法需要用到
+#        #acknowledge-mode: manual
+#        default-requeue-rejected: false #设置为false时，会丢弃消息或重新发布到死信队列
+
 
   redis:
     database: 0
