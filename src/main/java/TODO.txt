@@ -18,14 +18,16 @@ https://blog.csdn.net/qq_31463999/article/details/89788176
 https://www.cnblogs.com/toov5/p/10289999.html
 https://www.cnblogs.com/theRhyme/p/10874409.html（死信队列）
 
----------------------------------------------------------------------------
-
-12/24-28
-1.线程池
-2.Netty
+5.Netty
 https://www.jianshu.com/p/b1e7e41a7d28
 https://www.cnblogs.com/little-fly/p/8683197.html
 https://segmentfault.com/a/1190000017128263?utm_source=tag-newest
-3.SpringCloud系列(功能分割,网关,Hytrix等）
-4.docker学习
+
+---------------------------------------------------------------------------
+
+12/25-26
+6.SpringCloud系列(功能分割,网关,Hytrix等）
+
+12/27-28
+7.docker学习
 不适合数据库：http://mini.eastday.com/mobile/190523105731119.html

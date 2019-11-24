@@ -18,7 +18,8 @@ public class NettyServer {
         NioEventLoopGroup boos = new NioEventLoopGroup();
         NioEventLoopGroup worker = new NioEventLoopGroup();
 
-        serverBootstrap
+        // netty5
+/*        serverBootstrap
                 .group(boos, worker)
                 .channel(NioServerSocketChannel.class)
                 .childHandler(new ChannelInitializer<NioSocketChannel>() {
@@ -28,13 +29,13 @@ public class NettyServer {
                         nioSocketChannel.pipeline().addLast(new SimpleChannelInboundHandler<String>() {
 
                             @Override
-                            protected void channelRead0(ChannelHandlerContext channelHandlerContext, String s) throws Exception {
+                            protected void messageReceived(ChannelHandlerContext channelHandlerContext, String s) throws Exception {
                                 System.out.println(s);
                             }
                         });
                     }
                 })
-                .bind(8000);
+                .bind(8000);*/
 
     }
 
