@@ -24,8 +24,10 @@ https://www.jianshu.com/p/b1e7e41a7d28
 https://www.cnblogs.com/little-fly/p/8683197.html
 https://segmentfault.com/a/1190000017128263?utm_source=tag-newest
 
-6.SpringCloud系列(网关,Hytrix等）
-
+6.SpringCloud
+https://blog.csdn.net/sunroyi666/article/details/95189938
+https://blog.csdn.net/java666999/article/details/96997090
+https://www.cnblogs.com/paxing/p/10551806.html
 
 ---------------------------------------------------------------------------
 
