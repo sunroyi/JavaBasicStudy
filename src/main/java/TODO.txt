@@ -9,6 +9,7 @@ https://blog.csdn.net/qq_16605855/article/details/80192762
 3.UML
 参考UML目录下的“我的UML”
 https://www.cnblogs.com/jiangds/p/6596595.html
+现有系统的架构图，见document目录下的“系统架构图”
 
 4.消息队列RabbitMQ实现分布式事务
 代码中的RabbitMQ在exclude目录下
@@ -23,11 +24,11 @@ https://www.jianshu.com/p/b1e7e41a7d28
 https://www.cnblogs.com/little-fly/p/8683197.html
 https://segmentfault.com/a/1190000017128263?utm_source=tag-newest
 
+6.SpringCloud系列(网关,Hytrix等）
+
+
 ---------------------------------------------------------------------------
 
-12/25-26
-6.SpringCloud系列(功能分割,网关,Hytrix等）
-
-12/27-28
+12/26-28
 7.docker学习
 不适合数据库：http://mini.eastday.com/mobile/190523105731119.html
