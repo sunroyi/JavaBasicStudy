@@ -1,0 +1,10 @@
+在Java中，栈stack内存是用来存储函数的主体和变量名的。
+Java中的代码是在函数体中执行的，每个函数主体都会被放在栈内存中，
+比如main函数。加入main函数里调用了其他的函数，比如add（），那么在栈里面的的存储就是最底层是main，mian上面是add。
+栈的运行时后入先出的，所以会执行时会先销毁add，再销毁main。
+
+在Java中，堆内存是用来存储实例的。
+比如main函数里面声明了一个people的类per，people per；这个per是存储在栈stack内存中的，实例化后（per = new people（））；
+实例后的对象实体是存在堆heap内存中的。栈stack内存中存储的per存储着指向堆heap内存的地址指向。
+堆heap内存的存在是为了更好的管理内存，实现garbage collection。
+当per不再指向堆heap内存中的实例的时候，garbage collection机制就会把这个堆heap内存中的new people（）实例删除，释放内存。

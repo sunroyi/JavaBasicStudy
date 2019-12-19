@@ -9,27 +9,28 @@ public class FixedThreadPool {
 
         final String str = "abc";
 
-        ExecutorService es = Executors.newFixedThreadPool(3);
-        es.submit(new Runnable() {
+        ExecutorService pool = Executors.newFixedThreadPool(2);
+        pool.submit(new Runnable() {
             @Override
             public void run() {
-                System.out.println("1:"+ str);
+                System.out.println(Thread.currentThread().getName() + "-1:"+ str);
             }
         });
 
-        es.submit(new Runnable() {
+        pool.submit(new Runnable() {
             @Override
             public void run() {
-                System.out.println("2:" + str);
+                System.out.println(Thread.currentThread().getName() + "-2:" + str);
             }
         });
 
-        es.submit(new Runnable() {
+        pool.submit(new Runnable() {
             @Override
             public void run() {
-                System.out.println("3:" + str);
+                System.out.println(Thread.currentThread().getName() + "-3:" + str);
             }
         });
 
+        pool.shutdown();
     }
 }

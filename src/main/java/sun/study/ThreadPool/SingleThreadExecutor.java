@@ -9,6 +9,11 @@ public class SingleThreadExecutor {
 
         @Override
         public void run() {
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
             System.out.println("A");
         }
     }
@@ -17,6 +22,11 @@ public class SingleThreadExecutor {
 
         @Override
         public void run() {
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
             System.out.println("B");
         }
     }
@@ -25,18 +35,23 @@ public class SingleThreadExecutor {
 
         @Override
         public void run() {
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
             System.out.println("C");
         }
     }
 
     public static void main(String[] args){
 
-        ExecutorService es = Executors.newSingleThreadExecutor();
+        ExecutorService pool = Executors.newSingleThreadExecutor();
 
-        es.submit(new Thread1());
-        es.submit(new Thread2());
-        es.submit(new Thread3());
+        pool.submit(new Thread1());
+        pool.submit(new Thread2());
+        pool.submit(new Thread3());
 
-        es.shutdown();
+        pool.shutdown();
     }
 }

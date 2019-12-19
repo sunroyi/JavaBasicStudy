@@ -10,7 +10,7 @@ public class ThreadPoolTest1 {
         ThreadPoolExecutor tpe = new ThreadPoolExecutor(3,5,200, TimeUnit.MILLISECONDS, new ArrayBlockingQueue<>(3), factory, reject);
 
         for(int i=0;i<10;i++){
-            tpe.submit(new task());
+            tpe.execute(new task());
         }
 
         Thread.sleep(15000);

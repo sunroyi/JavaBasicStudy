@@ -30,8 +30,14 @@ https://segmentfault.com/a/1190000017128263?utm_source=tag-newest
 https://blog.csdn.net/sunroyi666/article/details/95189938
 
 7.docker学习
+我的博客地址：https://blog.csdn.net/sunroyi666/article/details/103299830
 不适合数据库：http://mini.eastday.com/mobile/190523105731119.html
 https://blog.csdn.net/wcblog/article/details/80455461
 https://www.cnblogs.com/whych/p/9446032.html
 https://www.cnblogs.com/zgq123456/articles/10843098.html
 https://segmentfault.com/a/1190000019716529
+
+8.JVM中的数据存储
+参考document目录下的“JVM数据存储”
+https://www.cnblogs.com/bky-nll/p/11117603.html
+https://blog.csdn.net/liangshilin/article/details/82390559

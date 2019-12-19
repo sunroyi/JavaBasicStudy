@@ -14,9 +14,9 @@ public class MyFunctionTest {
         assertEquals(3, mf.add(1,2));
     }
 
-    @Test
+/*    @Test
     public void add1() throws Exception{
         MyFunction mf = new MyFunction();
         assertEquals(2, mf.add(1,2));
-    }
+    }*/
 }
