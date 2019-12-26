@@ -1,6 +1,6 @@
 package sun.study.DataType;
 
-public class HashTest {
+public class HashTest<S> {
 
     public static void main(String[] args){
 

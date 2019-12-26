@@ -1,50 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cb1ea04-835a-4731-bd28-4f33b2a7563e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/document/JVM数据存储/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document/JVM数据存储/2-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document/JVM数据存储/2-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document/JVM数据存储/堆和栈的存储.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document/多线程.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document/多线程.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/FullHalfExchange/ExchangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/FullHalfExchange/JapaneseEnglishExchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/String/SaveInMemory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Thread/CallableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/Thread/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/CachedThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/SingleThreadScheduledExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="7cb1ea04-835a-4731-bd28-4f33b2a7563e" name="Default" comment="3">
+      <change afterPath="$PROJECT_DIR$/document/Code/JIS_X_0208-CODE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/Code/Unicode.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/Thinking in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/深入理解Java虚拟机.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/FullHalfExchange/ASCIIExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/UnicodeExchange/UnicodeSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sun/study/UnicodeExchange/UnicodeUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/document/系统架构图.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/document/系统架构图/系统架构图.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/document/系统架构图.vsd" beforeDir="false" afterPath="$PROJECT_DIR$/document/系统架构图/系统架构图.vsd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TODO.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TODO.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document/多线程.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/document/多线程.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document/多线程.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/document/多线程.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaBasicStudy_jar/JavaBasicStudy.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaBasicStudy_jar/JavaBasicStudy.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/ABA/ABA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/ABA/ABA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/DataType/HashTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/DataType/HashTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/FullHalfExchange/ExchangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/FullHalfExchange/ExchangeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/Lock/LockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/Lock/LockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/ScheduleThreadPool/ScheduleThreadPoolTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/ScheduleThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/Thread/ThreadRunnableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/Thread/ThreadRunnableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/FixedThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/FixedThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/SingleThreadExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/SingleThreadExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/ThreadPoolTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/ThreadPoolTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/MyFunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit/MyFunctionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/junit/ServiceControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit/ServiceControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/common/entity/RestfulResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/entity/RestfulResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/common/utils/CommUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/utils/CommUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/common/utils/JsonMapper$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/utils/JsonMapper$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/common/utils/JsonMapper$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/utils/JsonMapper$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/common/utils/JsonMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/utils/JsonMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/common/utils/JsonUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/utils/JsonUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sun/ConsumerClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sun/ConsumerClientApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sun/controller/ServiceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sun/controller/ServiceController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sun/entity/ServiceInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sun/entity/ServiceInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springbootService-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springbootService-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/String/SaveInMemory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/String/SaveInMemory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/Thread/CallableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/Thread/CallableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/CachedThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sun/study/ThreadPool/CachedThreadPool.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +146,7 @@
       <recent name="D:\workspace20160509\JavaBasicStudy\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingleThreadScheduledExecutor">
+  <component name="RunManager" selected="Application.ScheduleThreadPool">
     <configuration name="CachedThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sun.study.ThreadPool.CachedThreadPool" />
       <module name="JavaBasicStudy" />
@@ -200,8 +175,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScheduleThreadPoolTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sun.study.ThreadPool.ScheduleThreadPoolTest1" />
+    <configuration name="ScheduleThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sun.study.ThreadPool.ScheduleThreadPool" />
       <module name="JavaBasicStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -228,8 +203,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleThreadScheduledExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sun.study.ThreadPool.SingleThreadScheduledExecutor" />
+    <configuration name="ThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sun.study.ThreadPool.ThreadPoolTest" />
       <module name="JavaBasicStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -273,19 +248,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.ConsumerClientApplication" />
+      <item itemvalue="Application.ThreadPoolTest" />
       <item itemvalue="Application.CachedThreadPool" />
       <item itemvalue="Application.FixedThreadPool" />
       <item itemvalue="Application.SingleThreadExecutor" />
-      <item itemvalue="Application.ScheduleThreadPoolTest1" />
-      <item itemvalue="Application.SingleThreadScheduledExecutor" />
+      <item itemvalue="Application.ScheduleThreadPool" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SingleThreadScheduledExecutor" />
-        <item itemvalue="Application.ScheduleThreadPoolTest1" />
+        <item itemvalue="Application.ScheduleThreadPool" />
         <item itemvalue="Application.SingleThreadExecutor" />
         <item itemvalue="Application.FixedThreadPool" />
         <item itemvalue="Application.CachedThreadPool" />
+        <item itemvalue="Application.ThreadPoolTest" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +327,8 @@
       <workItem from="1576492015222" duration="637000" />
       <workItem from="1576494478361" duration="20496000" />
       <workItem from="1576650764043" duration="231000" />
-      <workItem from="1576651042228" duration="25203000" />
+      <workItem from="1576651042228" duration="57077000" />
+      <workItem from="1577173457884" duration="28342000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1568295693272</created>
@@ -445,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574697502588</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1">
+      <created>1576740834752</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1576740834752</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -497,14 +480,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="388" y="149" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1576646713887" />
-    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1576740223186">
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1577323799797">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1576740223186" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1577323799797" />
     <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576215437009">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1576215437009" />
+    <state x="113" y="0" key="CommitChangelistDialog2" timestamp="1577176617604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="113" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577176617604" />
     <state width="387" height="466" key="DebuggerActiveHint" timestamp="1576583973847">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -513,38 +500,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576492026855" />
-    <state width="1237" height="149" key="GridCell.Tab.0.bottom" timestamp="1576740710185">
+    <state width="1237" height="249" key="GridCell.Tab.0.bottom" timestamp="1577257022845">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="149" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576740710185" />
-    <state width="1237" height="149" key="GridCell.Tab.0.center" timestamp="1576740710185">
+    <state width="1237" height="249" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577257022845" />
+    <state width="1237" height="249" key="GridCell.Tab.0.center" timestamp="1577257022845">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="149" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576740710185" />
-    <state width="1237" height="149" key="GridCell.Tab.0.left" timestamp="1576740710185">
+    <state width="1237" height="249" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577257022845" />
+    <state width="1237" height="249" key="GridCell.Tab.0.left" timestamp="1577257022844">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="149" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576740710185" />
-    <state width="1237" height="149" key="GridCell.Tab.0.right" timestamp="1576740710185">
+    <state width="1237" height="249" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577257022844" />
+    <state width="1237" height="249" key="GridCell.Tab.0.right" timestamp="1577257022845">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="149" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576740710185" />
-    <state width="1237" height="149" key="GridCell.Tab.1.bottom" timestamp="1576740710185">
+    <state width="1237" height="249" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577257022845" />
+    <state width="1237" height="249" key="GridCell.Tab.1.bottom" timestamp="1577257022627">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="149" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576740710185" />
-    <state width="1237" height="149" key="GridCell.Tab.1.center" timestamp="1576740710185">
+    <state width="1237" height="249" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577257022627" />
+    <state width="1237" height="249" key="GridCell.Tab.1.center" timestamp="1577257022627">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="149" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576740710185" />
-    <state width="1237" height="149" key="GridCell.Tab.1.left" timestamp="1576740710185">
+    <state width="1237" height="249" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1577257022627" />
+    <state width="1237" height="249" key="GridCell.Tab.1.left" timestamp="1577257022627">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="149" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576740710185" />
-    <state width="1237" height="149" key="GridCell.Tab.1.right" timestamp="1576740710185">
+    <state width="1237" height="249" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1577257022627" />
+    <state width="1237" height="249" key="GridCell.Tab.1.right" timestamp="1577257022627">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="149" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576740710185" />
+    <state width="1237" height="249" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1577257022627" />
     <state width="1237" height="164" key="GridCell.Tab.2.bottom" timestamp="1576234102268">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -561,14 +548,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="164" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1576234102268" />
-    <state x="406" y="40" width="687" height="538" key="find.popup" timestamp="1576739877896">
+    <state x="420" y="65" key="RollbackChangesDialog" timestamp="1577086247400">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="406" y="40" width="687" height="538" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1576739877896" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1576725211864">
+    <state x="420" y="65" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1577086247400" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1576740839274">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1576725211864" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1576740839274" />
+    <state x="406" y="40" width="687" height="538" key="find.popup" timestamp="1577265684657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="406" y="40" width="687" height="538" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1577265684657" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1577084678024">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1577084678024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -582,6 +577,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/sun/study/Sort/TreeNode.java</url>
           <line>55</line>
           <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sun/study/FullHalfExchange/ASCIIExchange.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

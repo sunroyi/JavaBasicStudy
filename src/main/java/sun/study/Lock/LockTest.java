@@ -1,5 +1,8 @@
 package sun.study.Lock;
 
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
+
 public class LockTest {
     public static void main(String[] args){
         Outputter1 output = new Outputter1();
@@ -22,7 +25,7 @@ class Outputter1{
 
     public void output(String name){
         //lock.lock();
-        //synchronized(this) {
+        synchronized(this) {
             try {
                 for (int i = 0; i < name.length(); i++) {
                     System.out.print(name.charAt(i));
@@ -31,7 +34,7 @@ class Outputter1{
             } finally {
                 //lock.unlock();
             }
-        //}
+        }
     }
 
 }

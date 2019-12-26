@@ -24,7 +24,7 @@ public class CachedThreadPool {
         ExecutorService pool = Executors.newCachedThreadPool();
         pool.submit(new TestThread());
         // 加上Sleep，重用第一个线程
-        //Thread.sleep(6000);
+        Thread.sleep(6000);
         pool.submit(new TestThread());
         pool.shutdown();
     }

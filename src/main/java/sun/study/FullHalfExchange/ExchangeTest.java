@@ -1,13 +1,17 @@
 package sun.study.FullHalfExchange;
 
+import java.io.UnsupportedEncodingException;
+
 public class ExchangeTest {
 
-    public static void main(String[] args){
+    public static void main(String[] args) throws UnsupportedEncodingException {
 
-        String input = "アナタＡＢＣdefブギｱﾀｼﾋﾞ";
+        String input = "アｱあぁナタＡＢＣdefブギｱﾀｼﾋﾞ123１２３";
 
-        System.out.println("Half：" + JapaneseEnglishExchange.exchangeToHalf(input));
+        ASCIIExchange.showAscii(input);
 
-        System.out.println("Full：" + JapaneseEnglishExchange.exchangeToFull(input));
+        //System.out.println("Half：" + JapaneseEnglishExchange.exchangeToHalf(input));
+
+        //System.out.println("Full：" + JapaneseEnglishExchange.exchangeToFull(input));
     }
 }

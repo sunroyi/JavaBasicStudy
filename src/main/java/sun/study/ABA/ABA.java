@@ -42,7 +42,7 @@ public class ABA {
             public void run() {
 
                 int stamp = atomicStampedRef.getStamp();
-
+                System.out.println("T1:"+stamp);
                 try {
                     Thread.sleep(1000);
                 } catch (InterruptedException e) {
@@ -50,7 +50,9 @@ public class ABA {
                 }
 
                 atomicStampedRef.compareAndSet(100, 101, stamp, stamp+1);
+                System.out.println("T1:"+atomicStampedRef.getStamp());
                 atomicStampedRef.compareAndSet(101, 100, stamp, stamp+1);
+                System.out.println("T1:"+atomicStampedRef.getStamp());
             }
         });
 
@@ -59,13 +61,16 @@ public class ABA {
             public void run() {
 
                 int stamp = atomicStampedRef.getStamp();
+                System.out.println("T2:"+stamp);
 
                 try {
                     Thread.sleep(2000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
+                System.out.println("T2:"+atomicStampedRef.getStamp());
                 boolean C3 = atomicStampedRef.compareAndSet(100, 101, stamp, stamp+1);
+                System.out.println("T2:"+atomicStampedRef.getStamp());
                 System.out.println(C3);
             }
         });
